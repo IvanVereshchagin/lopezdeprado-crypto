@@ -519,6 +519,9 @@ window (нет данных из будущего в train), purge (убирае
 (зазор между train и test). Итого 5 фолдов, каждый ~15K
 наблюдений.
 
+
+<img width="1589" height="690" alt="image" src="https://github.com/user-attachments/assets/b1097e4b-5387-4ef3-8611-c74b700a83ff" />
+
 ---
 
 ### Отбор признаков — три этапа
